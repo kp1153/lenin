@@ -7,7 +7,7 @@ export default function Footer() {
         <div>
           <h2 className="text-xl font-bold">Dr. Lenin Raghuvanshi</h2>
           <p className="text-sm mt-1">
-            Renowned Physician, Director of PVCHR (Peoples Vigilance Committee on Human Rights), Varanasi
+            Renowned Physician, Director of PVCHR (Vigilance Committee for Human Rights of the People), Varanasi
           </p>
         </div>
         <div className="text-sm">
@@ -23,7 +23,6 @@ export default function Footer() {
               9935599333
             </a>
           </p>
-          {/* Example internal links using Next.js Link */}
           <p className="mt-2 flex gap-3">
             <Link href="/about" className="hover:underline text-blue-300">
               About

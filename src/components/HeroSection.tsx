@@ -63,28 +63,18 @@ export default function HeroSection() {
         Dr. Lenin Raghuvanshi
       </h1>
       <h2 className="text-lg md:text-xl text-blue-700 font-medium mb-2">
-        Human Rights Defender &amp; Director, PVCHR
+        Human Rights Defender and Director, PVCHR
       </h2>
       <p className="text-base md:text-lg text-gray-700 mb-6 max-w-xl">
-        Renowned physician, social activist, and founder of People&apos;s Vigilance Committee on Human Rights (PVCHR), Varanasi. <br />
+        Renowned physician, social activist, and founder of Vigilance Committee for Human Rights of the People (PVCHR), Varanasi. <br />
         Dedicated to empowering marginalized communities and advocating for justice, equality, and human dignity.
       </p>
-      {/* Internal page link example */}
       <Link
         href="/about"
         className="inline-block bg-blue-700 text-white px-5 py-2 rounded-full font-semibold hover:bg-blue-800 transition"
       >
         Know More About Lenin
       </Link>
-      {/* 
-      // अगर आप mailto लिंक रखना चाहते हैं तो इस तरह रखें:
-      <a
-        href="mailto:leninraghuvanshi@gmail.com"
-        className="inline-block bg-blue-700 text-white px-5 py-2 rounded-full font-semibold hover:bg-blue-800 transition"
-      >
-        Contact: leninraghuvanshi@gmail.com
-      </a>
-      */}
     </section>
   );
 }

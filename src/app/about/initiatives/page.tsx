@@ -5,7 +5,7 @@ export default function InitiativesPage() {
         Initiatives
       </h1>
       <p className="text-lg text-gray-700 mb-6">
-        Details about Dr. Lenin Raghuvanshi's key initiatives and projects will appear here.
+        Details about key initiatives and projects led by Dr. Lenin Raghuvanshi will appear here.
       </p>
       {/* Add more content as needed */}
     </main>
