@@ -27,7 +27,7 @@ export default function AboutPage() {
           In 2016, Dr. Lenin was awarded the <span className="font-semibold">M.A. Thomas National Human Rights Award</span> for his contribution to the struggle for the rights of marginalized communities, particularly Dalits and Adivasis.
         </p>
         <p>
-          Recognizing his work for the promotion and protection of children’s rights, Wockhardt Foundation selected him as <span className="font-semibold">Child Rights Activist of the Year</span> in a nationwide online voting.
+          Recognizing his work for the promotion and protection of childrens rights, Wockhardt Foundation selected him as <span className="font-semibold">Child Rights Activist of the Year</span> in a nationwide online voting.
         </p>
       </div>
     </main>
