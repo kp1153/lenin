@@ -23,20 +23,7 @@ export default function Footer() {
               9935599333
             </a>
           </p>
-          <p className="mt-2 flex gap-3">
-            <Link href="/about" className="hover:underline text-blue-300">
-              About
-            </Link>
-            <Link href="/about/initiatives" className="hover:underline text-blue-300">
-              Initiatives
-            </Link>
-            <Link href="/about/recognition" className="hover:underline text-blue-300">
-              Recognition
-            </Link>
-            <Link href="/life-events" className="hover:underline text-blue-300">
-              Life Events
-            </Link>
-          </p>
+          
         </div>
       </div>
       <div className="mt-6 text-center text-xs text-gray-400">
