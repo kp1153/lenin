@@ -23,11 +23,21 @@ export default function Footer() {
               9935599333
             </a>
           </p>
-          
         </div>
       </div>
       <div className="mt-6 text-center text-xs text-gray-400">
         &copy; {new Date().getFullYear()} Dr. Lenin Raghuvanshi and PVCHR. All rights reserved.
+        <br />
+        यह वेबसाइट{" "}
+        <a
+          href="https://www.hamaramorcha.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:underline text-gray-300"
+        >
+          www.hamaramorcha.com
+        </a>{" "}
+        ने विकसित की है।
       </div>
     </footer>
   );
