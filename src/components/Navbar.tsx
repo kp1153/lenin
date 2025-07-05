@@ -14,6 +14,7 @@ const navItems = [
     ],
   },
   { name: "Life Events", href: "/life-events" },
+  { name: "Writings by Lenin", href: "/writings" }, // ✅ New Menu Item
 ];
 
 export default function Navbar() {
